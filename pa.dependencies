@@ -1,0 +1,18 @@
+[
+ {
+   "repository":  "CyanogenMod/android_kernel_lge_hammerhead",
+   "branch":      "cm-12.1",
+   "target_path": "kernel/lge/hammerhead"
+ },
+ {
+   "repository":  "CyanogenMod/android_device_qcom_common",
+   "branch:       "cm-12.1",
+   "target_path": "device/qcom/common"
+ },
+  {
+   "repository":  "TheMuppets/proprietary_vendor_lge",
+   "branch":      "cm-12.1",
+   "target_path": "vendor/lge"
+ }
+]
+
