@@ -6,7 +6,7 @@
  },
  {
    "repository":  "CyanogenMod/android_device_qcom_common",
-   "branch:       "cm-12.1",
+   "branch":       "cm-12.1",
    "target_path": "device/qcom/common"
  },
   {
