@@ -5,8 +5,8 @@
    "target_path": "kernel/lge/hammerhead"
  },
  {
-   "repository":  "CyanogenMod/android_device_qcom_common",
-   "branch":      "cm-12.1",
+   "repository":  "AOSPA-L/android_device_qcom_common",
+   "branch":      "lollipop-mr1",
    "target_path": "device/qcom/common"
  },
   {
