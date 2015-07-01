@@ -1,18 +1,20 @@
 [
- {
-   "repository":  "CyanogenMod/android_kernel_lge_hammerhead",
-   "branch":      "cm-12.1",
-   "target_path": "kernel/lge/hammerhead"
- },
- {
-   "repository":  "AOSPA-L/android_device_qcom_common",
-   "branch":      "lollipop-mr1",
-   "target_path": "device/qcom/common"
- },
-  {
-   "repository":  "TheMuppets/proprietary_vendor_lge",
-   "branch":      "cm-12.1",
-   "target_path": "vendor/lge"
- }
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_kernel_lge_hammerhead",
+        "target_path": "kernel/lge/hammerhead",
+        "revision":    "cm-12.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "AOSPA-L/android_device_qcom_common",
+        "target_path": "device/qcom/common",
+        "revision":    "lollipop-mr1"
+    },
+    {
+        "remote":      "blobs",
+        "repository":  "proprietary_vendor_lge",
+        "target_path": "vendor/lge",
+        "revision":    "cm-12.1"
+    }
 ]
-
