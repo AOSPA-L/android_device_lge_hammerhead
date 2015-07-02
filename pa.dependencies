@@ -14,7 +14,7 @@
     {
         "remote":       "github",
         "repository":   "TheMuppets/proprietary_vendor_lge",
-        "target_path":  "vendor/lge/hammerhead",
+        "target_path":  "vendor/lge",
         "revision":     "cm-12.1"
     }
 ]
