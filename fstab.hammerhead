@@ -20,3 +20,4 @@
 /dev/block/platform/msm_sdcc.1/by-name/imgdata      /imgdata        emmc    defaults                                                        defaults
 
 /devices/platform/xhci-hcd*                         auto            auto    defaults                                                        voldmanaged=usbdisk:auto
+/devices/platform/xhci-hcd auto vfat defaults voldmanaged=usbdisk:auto

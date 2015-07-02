@@ -12,9 +12,9 @@
         "revision":    "lollipop-mr1"
     },
     {
-        "remote":      "blobs",
-        "repository":  "proprietary_vendor_lge",
-        "target_path": "vendor/lge",
-        "revision":    "cm-12.1"
+        "remote":       "github",
+        "repository":   "TheMuppets/proprietary_vendor_lge",
+        "target_path":  "vendor/lge/hammerhead",
+        "revision":     "cm-12.1"
     }
 ]

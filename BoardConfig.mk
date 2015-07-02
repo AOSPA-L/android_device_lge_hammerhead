@@ -168,6 +168,8 @@ BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_23x41.h\"
 BOARD_HARDWARE_CLASS := device/lge/hammerhead/cmhw
 
 -include vendor/lge/hammerhead/BoardConfigVendor.mk
+# Flags
+BOARD_SUPPRESS_SECURE_ERASE := true
 
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
