@@ -1,0 +1,20 @@
+[
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_kernel_lge_hammerhead",
+        "target_path": "kernel/lge/hammerhead",
+        "revision":    "cm-12.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "AOSPA-L/android_device_qcom_common",
+        "target_path": "device/qcom/common",
+        "revision":    "lollipop-mr1"
+    },
+    {
+        "remote":       "github",
+        "repository":   "TheMuppets/proprietary_vendor_lge",
+        "target_path":  "vendor/lge/hammerhead",
+        "revision":     "cm-12.1"
+    }
+]
